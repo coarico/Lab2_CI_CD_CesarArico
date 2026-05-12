@@ -1,6 +1,7 @@
 app:
   version: ${APP_VERSION:local}
   name: springlab-Cesar-Arico
+  description: CI/CD project for Cesar Arico - Lab 2
 
 server:
   port: 8080
