@@ -165,7 +165,7 @@
 	"variable": [
 		{
 			"key": "base_url",
-			"value": "https://aricocesar-lab2.onrender.com",
+			"value": "https://springlab-cesar-arico.onrender.com",
 			"type": "string"
 		},
 		{
